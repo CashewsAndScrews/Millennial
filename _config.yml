@@ -1,0 +1,13 @@
+# Site Settings
+baseurl:            #"Millenial"
+url:                #"https://cashewsandscrews.github.io"
+github:
+  url:               #"https://cashewsandscrews.github.io/Millenial"
+
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           pretty
+gems:                [jekyll-paginate]
