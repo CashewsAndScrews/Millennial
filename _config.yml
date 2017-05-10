@@ -1,8 +1,8 @@
 # Site Settings
-baseurl:            #"Cashews"
+baseurl:            #"Millenial"
 url:                #"https://cashewsandscrews.github.io"
 github:
-  url:               #"https://cashewsandscrews.github.io/Cashews"
+  url:               #"https://cashewsandscrews.github.io/Millenial"
 
 paginate:            5
 
