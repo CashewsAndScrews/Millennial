@@ -2,7 +2,7 @@
 layout: post
 title: "About the Authors"
 author: "Ashley & Alex"
-categories: facts
+categories: outreach
 tags: [outreach]
 image:
   feature: wall.jpg
