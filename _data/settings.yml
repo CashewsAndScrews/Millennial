@@ -6,7 +6,7 @@ author:
 menu:
 - {name: 'Recipes', file: 'recipes.html'}
 - {name: 'Projects', file: 'projects.html'}
-- {name: 'Outreach', file: 'Outreach.html'}
+- {name: 'Outreach', file: 'outreach.html'}
 - {name: 'Science', file: 'science.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
