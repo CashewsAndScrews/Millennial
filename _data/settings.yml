@@ -4,10 +4,10 @@ author:
   name: "Alex, Ashley and Apollo"
 
 menu:
-- {name: 'Recipes', file: 'facts.html'}
-- {name: 'Projects', file: 'resources.html'}
-- {name: 'Outreach', file: 'sample-posts.html'}
-- {name: 'Science', file: 'documentation.html'}
+- {name: 'Recipes', file: 'recipes.html'}
+- {name: 'Projects', file: 'projects.html'}
+- {name: 'Outreach', file: 'Outreach.html'}
+- {name: 'Science', file: 'science.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
