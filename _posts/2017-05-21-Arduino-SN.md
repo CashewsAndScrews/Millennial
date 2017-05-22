@@ -51,13 +51,13 @@ Next, the photoresistor is used to measure the supernova. One leg of the photore
 
 Finally, the button is used to tell the Arduino when to set off a supernova. It is wired in the same way as a photoresistor. But rather than light determining the resistance, the pressing of the button lowers the resistance to trigger the Arduino. This circuit is all placed inside of a black box so that no background light gets picked up by the photoresistor (much like observing the sky at night time!). 
 
-The Arduino code is located on our github [here]. See comments in this code to better understand how to adapt it for your Arduino.
+The Arduino code is located on our github [here](https://github.com/CashewsAndScrews/Arduino_SN). See comments in this code to better understand how to adapt it for your Arduino.
 
 You can see [this link](https://docs.google.com/document/d/1PPT-yslngogyZSKpOTCSjdIDPOIj7qzCyF9yDEEWJCY/edit?usp=sharing) for the lab instructions and guiding questions. In short, the students launch a supernova (1) without any ejecta mass, (2) with one ejecta star mass and (3) with two ejecta star masses. Each time, they visually look at the captured data and then record the light curve. A sample light curve is shown below.
 
 ![data](/images/asn_5.png)
 
-Finally, we then fit the light curve with a real supernova model that is powered by the radioactive decay of 56-Nickel. The code to fit this data is located on our github [here]. The code will rescale the data so that the y-axis corresponds to realistic luminosities (in erg/s).
+Finally, we then fit the light curve with a real supernova model that is powered by the radioactive decay of 56-Nickel. The code to fit this data is located on our github [here](https://github.com/CashewsAndScrews/Arduino_SN). The code will rescale the data so that the y-axis corresponds to realistic luminosities (in erg/s).
 
 An example of the best model fit to the one-star data is shown below. Assuming each time step is equal to one day, the model actually returns surprisingly realistic parameters, with an ejecta mass of [!]. 
 
