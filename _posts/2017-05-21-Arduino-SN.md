@@ -41,11 +41,11 @@ Below is a diagram of the Arduino circuit.
 
 And the actual board:
 
-![real arduino](\images/asn_6.jpg)
+![real arduino](\images/asn_6.png)
 
 The circuit has three main components: the laser, the photoresistor and the button:
 
-First, we control the laser with a PWM output. PWM stands for *pulse width modulation*. In this experiment, we turn the laser on for several milliseconds to represent our supernova explosion. 
+First, we control the laser with a PWM output. PWM stands for *pulse width modulation*. In this experiment, we turn the laser on for several milliseconds to represent our supernova explosion. We used a 5V, 405nm, 120mW laser. You need a blue-ish laser for the activity to work well.
 
 Next, the photoresistor is used to measure the supernova. One leg of the photoresistor is attached to 5V and the other is attached to one of the Arduino's analog inputs. The analog input is also attached to ground through a large resistor. The resistance of the photoresistor is determined by how much light is shining on it. This variable resistance forces the analog input to read somewhere between 0V and 5V, depending on the relative resistance between the large resistor (ground) and the photoresistor. When the photoresistor has no light shining on it, its resistance is much larger than the other resistor. Therefore, the analog input reads a voltage close to 0V. When the photoresistor is exposed to light, its resistance drops, and the analog input reads a larger voltage. 
 
