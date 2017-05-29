@@ -9,7 +9,20 @@ image:
   feature: succulent_header.jpg
 ---
 
-Inspired by many Pinterest boards, Alex and I decided to build a large succulent window box garden. We had already been collecting succulents over the last two years, and our previous shelf was getting crowded. 
+Inspired by many Pinterest boards, Alex and I decided to build a large succulent window box garden. We had already been collecting succulents over the last two years, and our previous shelf was getting crowded.
+
+## Supply List:
+1. 30'' sheet metal planters x2
+2. 6 L brackets
+3. 6 ft. of 2x1 in. lumber
+4. 1'' Wood screws
+5. Drywall anchors
+6. Styrofoam peanuts
+7. Cactus soil
+8. Around 40 small succulents
+
+
+## Instructions: 
 
 To begin, we got most of what we needed for the project at [Mahoney's Garden Center](http://mahoneysgarden.com/) (including even more succulents...) and Home Depot. 
 
@@ -38,6 +51,8 @@ Our planters do not have any built-in drainage, which is important for succulent
 Finally, the fun part of arranging the succulents! We had 48 plants in total for our two planters. We arranged the larger succulents first and used the smaller ones to fill empty spaces. 
 
 ![](/images/succulent9.jpg)
+![](/images/succulent10.jpg)
+![](/images/succulent11.jpg)
 
 
 The project turned out great! The space is much brighter and less cluttered than before. Let us know if you have any questions or comments!
