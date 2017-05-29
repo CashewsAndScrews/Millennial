@@ -12,15 +12,18 @@ image:
 Inspired by many Pinterest boards, Alex and I decided to build a large succulent window box garden. We had already been collecting succulents over the last two years, and our previous shelf was getting crowded.
 
 ## Supply List:
-1. 30'' sheet metal planters x2
-2. 6 L brackets
-3. 6 ft. of 2x1 in. lumber
-4. 1'' Wood screws
-5. Drywall anchors
-6. Styrofoam peanuts
-7. Cactus soil
-8. Around 40 small succulents
 
+<ul  style="padding-left:20px">
+<li>30'' sheet metal planters x2</li>
+<li>6 L brackets</li>
+<li>6 ft. of 2x1 in. lumber</li>
+<li>1'' Wood screws</li>
+<li>Drywall anchors</li>
+<li>Styrofoam peanuts</li>
+<li>Cactus soil</li>
+<li>Around 40 small succulents</li>
+</ul>
+<br><br>
 
 ## Instructions: 
 
