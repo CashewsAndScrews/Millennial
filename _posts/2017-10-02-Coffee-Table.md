@@ -6,7 +6,7 @@ categories: projects
 tags: [projects]
 comments: true
 image:
-  feature: led_1.jpg
+  feature: ct10.jpg
 ---
 
 One of the first DIY projects we did together was painting a $2 coffee table. Now that we have our own place, we decided to get an upgrade and make our own live edge wooden coffee table. We're also working on a matching dining table, so watch out for that!
@@ -21,7 +21,7 @@ One of the first DIY projects we did together was painting a $2 coffee table. No
 * Steel brush (like a BBQ brush)
 * An oil-based, clear sealant from [Rockler's](http://www.rockler.com/general-finishes-original-seal-a-cell-clear)
 * Oil and urethane semi-gloss topcoat also from [Rockler's](http://www.rockler.com/general-finishes-arm-r-seal-urethane-topcoat-semi-gloss)
-*A ton of foam brushes
+* A ton of foam brushes
 
 ![alt](/images/ct7.jpg "Title")
 
